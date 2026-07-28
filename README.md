@@ -1,6 +1,8 @@
 # causal_spline
 Nonlinear causal dose-response estimation via restricted cubic splines Use causal_spline (CausalSpline) With (In) R Software
 
+https://www.youtube.com/watch?v=-Elj03XiZyo
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
